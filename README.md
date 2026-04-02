@@ -15,9 +15,8 @@ The dataset used in this project is sourced from Kaggle and contains a listing o
 ---
 
 ## 🛠️ Technologies Used
-* **Python 3.x**
 * **Pandas:** For high-performance data manipulation and cleaning.
-* **VS Code / Jupyter Notebook:** Development environment.
+* **VS Code:** Development environment.
 
 ---
 
